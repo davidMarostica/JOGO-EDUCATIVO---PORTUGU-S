@@ -1,0 +1,14 @@
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/bin/Debug/net8.0/JOGEDUCATIVO
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/bin/Debug/net8.0/JOGEDUCATIVO.deps.json
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/bin/Debug/net8.0/JOGEDUCATIVO.runtimeconfig.json
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/bin/Debug/net8.0/JOGEDUCATIVO.dll
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/bin/Debug/net8.0/JOGEDUCATIVO.pdb
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.AssemblyInfoInputs.cache
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.AssemblyInfo.cs
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.csproj.CoreCompileInputs.cache
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.dll
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/refint/JOGEDUCATIVO.dll
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.pdb
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/JOGEDUCATIVO.genruntimeconfig.cache
+/home/david/Downloads/projetoMulti/JOGEDUCATIVO/obj/Debug/net8.0/ref/JOGEDUCATIVO.dll
